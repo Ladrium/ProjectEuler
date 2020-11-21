@@ -7,7 +7,7 @@ const input = readline.createInterface({
 });
 
 input.question("Challenge name: ", async(name) => {
-    const length = readdirSync(__dirname).filter((f) => !f.endsWith(".js") && !f.endsWith(".idea") && !f.endsWith(".git")).length;
+    const length = readdirSync(__dirname).filter((f) => !f.includes(".")).length;
     await mkdir(`${__dirname}/Challenge ${length + 1}`, { }, (err) => {
         if(err) throw err;
     });
