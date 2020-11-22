@@ -21,20 +21,25 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.3.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.9" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Challenge 3" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/Leonardo/Desktop/Coding/Projects/ProjectEuler/Challenge 2/main.rs" value="true" />
+    <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/Leonardo/Desktop/Coding/Projects/ProjectEuler/Challenge/src/main.rs" value="true" />
     <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/Leonardo/Desktop/Coding/Projects/ProjectEuler/c/src/main.rs" value="true" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Leonardo\Desktop\Coding\Projects\ProjectEuler\Challenge 3" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Leonardo\Desktop\Coding\Projects\ProjectEuler\Challenge 2" />
     </key>
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -44,7 +49,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605987735845</updated>
-      <workItem from="1605987736979" duration="4268000" />
+      <workItem from="1605987736979" duration="4441000" />
+      <workItem from="1606039631568" duration="1052000" />
     </task>
     <servers />
   </component>
